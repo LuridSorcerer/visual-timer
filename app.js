@@ -1,3 +1,10 @@
+/*
+    Todo:
+    * resize canvas to fill window (leave some margin)
+    * add buttons for 15, 30 minutes
+    * add box for custom duration
+*/
+
 var startTime;
 var targetTime;
 var timerActive;
