@@ -4,9 +4,11 @@
     <title>Visual Timer</title>
     <meta charset="UTF-8">
 </head>
-<body onload="init()">
+<body onload="init()" onresize="resize()">
     <canvas id="canvas"></canvas>
-    <button onclick="setTargetTime(1000 * 60 * 10)">Press me!</button>
+    <br/>
+    <button onclick="setTargetTime(1000 * 60 * 15)">15</button>
+    <button onclick="setTargetTime(1000 * 60 * 30)">30</button>
     <script src="app.js"></script>
 </body>
 </html>
