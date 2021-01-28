@@ -9,4 +9,4 @@ The timer bar dynamically resizes to the window size, so you can make is as larg
 ## ToDo:
 * Test on more browsers and devices
 * Improve button styling
-* Add customer timer length
+* Add custom timer length
